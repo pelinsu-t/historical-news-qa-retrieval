@@ -1,0 +1,10 @@
+python-terrier
+pandas
+torch
+tqdm
+keybert
+symspellpy
+transformers
+pyserini
+faiss-gpu-cu12
+SpaCy
